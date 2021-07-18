@@ -2,7 +2,8 @@
 title: Ciro Ramírez-Suástegui
 role: Associate Bioinformatics Specialist
 avatar_filename: pp.jpeg
-bio: My research interests include bioinformatics.
+bio: My research interests include bioinformatics, immunology, and generative
+  art. Oh, and anything helping me explain the world around me, really!
 interests:
   - Artificial Intelligence
   - Immunology
